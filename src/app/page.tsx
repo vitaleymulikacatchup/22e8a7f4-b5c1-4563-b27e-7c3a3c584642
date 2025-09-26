@@ -54,7 +54,7 @@ export default function Home() {
         <ImageFAQ 
           title="Frequently Asked Questions" 
           description="Got questions? We have answers!" 
-          image="/path/to/faq-image.jpg" 
+          image="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/theme-funandtrendy-section-faq-slot-cont-1758880792200-814f8b6f.jpg" 
           imageAlt="FAQ Visual" 
           items={[
             { title: "What is MemeCoin Fiesta?", content: "MemeCoin Fiesta is an innovative memecoin platform." },
